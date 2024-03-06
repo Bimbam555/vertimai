@@ -1,16 +1,16 @@
 local Translations = {
     error = {
         ["canceled"]                    = "Atšaukta",
-        ["someone_recently_did_this"]   = "Kažkas neseniai tai padarė, bandykite vėl vėliau...",
-        ["cannot_do_this_right_now"]    = "Dabar negalima tai padaryti...",
-        ["you_failed"]                  = "Jūs nepavyko!",
+        ["someone_recently_did_this"]   = "Kažkas neseniai tai padarė, bandykite vėliau...",
+        ["cannot_do_this_right_now"]    = "Dabar negalima to padaryti...",
+        ["you_failed"]                  = "Jums nepavyko!",
         ["you_cannot_do_this"]          = "Jūs negalite to padaryti..",
         ["you_dont_have_enough_money"]  = "Jūs neturite pakankamai pinigų",
     },
     success = {
         ["success.case_has_been_unlocked"]              = "Saugumo dėžė buvo atrakinta",
-        ["you_removed_first_security_case"]     = "Jūs pašalinote pirmąją dėžės saugumo sluoksnį",
-        ["you_got_paid"]                        = "Jūs buvote apmokėtas",
+        ["you_removed_first_security_case"]     = "Jūs pašalinote pirmąjį dėžės saugumo sluoksnį",
+        ["you_got_paid"]                        = "Jumss buvote apmokėta",
         ["send_email_right_now"]                 = "Aš jums dabar atsiųsiu el. laišką!",
     },
     info = {
