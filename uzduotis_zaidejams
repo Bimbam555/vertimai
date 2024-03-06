@@ -1347,8 +1347,8 @@ Translations = {
         [21] = {
             ['UI'] = {
                 Text_Info = {
-                    "Labai atsiprašau, bet pasiekiau maksimalų dienos darbo valandų skaičių ir pagal įstatymą turiu eiti į privalomą poilsio laiką. Ar galėtumėte man padėti pristatyti likusias duonos prekes? Sumokėsiu.",
-                    "Labas. Susirgau užkėčiama liga ir nenoriu rizikuoti, kad pirkėjams paskleisčiau mikrobus ir tai pakenktų duonos išvežimui. Ar galite padėti man pristatyti šiuos duonos užsakymus? Tai būtų didelė pagalba man. Aišku, ne už dyka.",
+                    "Labai atsiprašau, bet pasiekiau maksimalų darbo dienos valandų skaičių ir pagal įstatymą turiu eiti į privalomą poilsio laiką. Ar galėtumėte man padėti pristatyti likusias duonos prekes? Sumokėsiu.",
+                    "Labas. Susirgau užkėčiama liga ir nenoriu rizikuoti, kad pirkėjams paskleisčiau mikrobus ir tai pakenktų duonos išvežimui. Ar galite padėti man pristatyti šiuos duonos užsakymus? Tai būtų didelė pagalba man. Aišku, ne už dyką.",
                     "Sveiki, aš susidūriau su netikėta transporto problema ir mano pristatymo mašina šiuo metu yra skubiai remontuojama. Deja, negaliu laiku pristatyti duonos. Gal galėtumėte padėti ir pristatyti? Už jūsų pagalbą atsilyginsiu.",
                     "Labas, ką tik gavau skubų pranešimą iš savo šeimos, turiu nedelsiant skubėti pas juos. Negalėsiu pristatyti duonos, kaip planavau. Ar galite man padėti pristatyti šiuos duonos užsakymus? Atsiprašau už sukeltus nepatogumus. Aš jums sumokėsiu.",
                     "Labas, atsiprašau, susirgo mano vaikas, turiu skubėti pas jį. Dėl to negaliu tęsti duonos pristatymo. Ar galėtumėte perimti ir pristatyti šiuos duonos užsakymus? Jūsų pagalba būtų nepaprastai vertinga šioje sudėtingoje situacijoje. Skoloje neliksiu.",
@@ -1617,7 +1617,7 @@ Translations = {
             ['UI'] = {
                 Text_Info = {
                     "Klausyk! Turiu reikalą, negaliu gaišti savo laiko, tad tikiuosi padėsi. Pristatyk brangių papuošalų užsakymą užsakovui, atsiskaitysiu.",
-                    "Labas, vakar patekau į bėdelę, neklausinėk detalių, tiesiog padaryk darbą tvarkingai, nuvešk šiuos papuošalus užsakovams ir perduok, vairuok atsargiai ir be jokių įtarimų! Grįši pas mane, atsiskaitysim.",
+                    "Labas, vakar patekau į bėdelę, neklausinėk detalių, tiesiog padaryk darbą tvarkingai, nuvešk šiuos papuošalus užsakovams ir perduok. Vairuok atsargiai ir be jokių įtarimų! Grįši pas mane, atsiskaitysim.",
                     "Velnias, neturiu aš laiko vaidinti kurjeriu, bet darbas atsakingas, kad jį galiu patikėti tik tau, drauge. Būsi atsakingas už sėkmingą papuošalų pristatymą jo pirkėjau, nepavesk manes ir nenuvilk, pažadu, gerai atsilyginsiu.",
                     "Seneliuuukai, vakar buvo bomba, tik tu tylėk ir nieko nesakyk, tiek vakar priveikėm, net mentai mūsų nesučiupo! Kaip kokiame veiksmo filme! Bet dabar negaliu vaidentis po miestą, tad reikia tavo paslaugos, turi šį užsakymą pristatyti į vietą. Imk kordinates ir į darbą! Žinai, jog skolingas neliksiu.",
                     "Sveiki, malonu, kad nusprendėte musm padėti ir siūlote savo paslaugas, mielai su jumis bendradarbiausime. Darbas paprastas, kaip manau ir galvojate, tiesioginis papuošalų pristatymas pirkėjams, štai jums adresai, bei gero kelio! Kai sugrįšite, mes su jumis atsiskaitysime.",
