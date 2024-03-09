@@ -2,365 +2,365 @@ Locales["en"] = {
     UI = {
         modal = {
             save = {
-                title = "Save customization",
-                description = "You will remain ugly"
+                title = "Išsaugoti pritaikymą",
+                description = "Tu liksi bjaurus"
             },
             exit = {
-                title = "Exit customization",
-                description = "No changes will be saved"
+                title = "Išeiti iš tinkinimo",
+                description = "Jokie pakeitimai nebus išsaugoti"
             },
-            accept = "Yes",
-            decline = "No"
+            accept = "Taip",
+            decline = "Ne"
         },
         ped = {
-            title = "Ped",
-            model = "Model"
+            title = "Pedas",
+            model = "Modelis"
         },
         headBlend = {
-            title = "Inheritance",
+            title = "Paveldėjimas",
             shape = {
-                title = "Face",
-                firstOption = "Father",
-                secondOption = "Mother",
-                mix = "Mix"
+                title = "Veidas",
+                firstOption = "Tėvas",
+                secondOption = "Motina",
+                mix = "Miksuoti"
             },
             skin = {
-                title = "Skin",
-                firstOption = "Father",
-                secondOption = "Mother",
-                mix = "Mix"
+                title = "Oda",
+                firstOption = "Tėvas",
+                secondOption = "Motina",
+                mix = "Miksuoti"
             },
             race = {
-                title = "Race",
-                shape = "Shape",
-                skin = "Skin",
-                mix = "Mix"
+                title = "Rasė",
+                shape = "Forma",
+                skin = "Oda",
+                mix = "Miksuoti"
             }
         },
         faceFeatures = {
-            title = "Face Features",
+            title = "Veido bruožai",
             nose = {
-                title = "Nose",
-                width = "Width",
-                height = "Height",
-                size = "Size",
-                boneHeight = "Bone height",
-                boneTwist = "Bone twist",
-                peakHeight = "Peak height"
+                title = "Nosis",
+                width = "Plotis",
+                height = "Aukštis",
+                size = "Dydis",
+                boneHeight = "Kaulo aukštis",
+                boneTwist = "Kaulo pakrypimas",
+                peakHeight = "Nosies galiuko aukštis"
             },
             eyebrows = {
-                title = "Eyebrows",
-                height = "Height",
-                depth = "Depth"
+                title = "Antakiai",
+                height = "Aukštis",
+                depth = "Gylis"
             },
             cheeks = {
-                title = "Cheeks",
-                boneHeight = "Bone height",
-                boneWidth = "Bone width",
-                width = "Width"
+                title = "Skruostai",
+                boneHeight = "Kaulo aukštis",
+                boneWidth = "Kaulo plotis",
+                width = "Plotis"
             },
             eyesAndMouth = {
-                title = "Eyes and Mouth",
-                eyesOpening = "Eyes opening",
-                lipsThickness = "Lip thickness"
+                title = "Akys ir burna",
+                eyesOpening = "Akių atvirumas",
+                lipsThickness = "Lūpų storis"
             },
             jaw = {
-                title = "Jaw",
-                width = "Width",
-                size = "Size"
+                title = "Žandikaulis",
+                width = "Plotis",
+                size = "Dydis"
             },
             chin = {
-                title = "Chin",
-                lowering = "Lowering",
-                length = "Length",
-                size = "Size",
-                hole = "Hole size"
+                title = "Smakras",
+                lowering = "Nusileidimas",
+                length = "Ilgis",
+                size = "Dydis",
+                hole = "Įdubimo dydis"
             },
             neck = {
-                title = "Neck",
-                thickness = "Thickness"
+                title = "Kaklas",
+                thickness = "Storis"
             }
         },
         headOverlays = {
-            title = "Appearance",
+            title = "Išvaizda",
             hair = {
-                title = "Hair",
-                style = "Style",
-                color = "Color",
-                highlight = "Highlight",
-                texture = "Texture",
-                fade = "Fade"
+                title = "Plaukai",
+                style = "Stilius",
+                color = "Spalva",
+                highlight = "Paryškinimas",
+                texture = "Tekstūra",
+                fade = "Perėjimas"
             },
-            opacity = "Opacity",
-            style = "Style",
-            color = "Color",
-            secondColor = "Secondary Color",
-            blemishes = "Blemishes",
-            beard = "Beard",
-            eyebrows = "Eyebrows",
-            ageing = "Ageing",
-            makeUp = "Make up",
-            blush = "Blush",
-            complexion = "Complexion",
-            sunDamage = "Sun damage",
-            lipstick = "Lipstick",
-            moleAndFreckles = "Mole and Freckles",
-            chestHair = "Chest hair",
-            bodyBlemishes = "Body blemishes",
-            eyeColor = "Eye color"
+            opacity = "Neskaidrumas",
+            style = "Stilius",
+            color = "Spalva",
+            secondColor = "Sekanti spalva",
+            blemishes = "Dėmės",
+            beard = "Barzda",
+            eyebrows = "Antakiai",
+            ageing = "Senėjimas",
+            makeUp = "Makiažas",
+            blush = "Paraudimas",
+            complexion = "Randai",
+            sunDamage = "Saulės nudegimai",
+            lipstick = "Lūpdažis",
+            moleAndFreckles = "Apgamas ir strazdanos",
+            chestHair = "Krūtinės plaukai",
+            bodyBlemishes = "Kūno dėmės",
+            eyeColor = "Akių spalva"
         },
         components = {
-            title = "Clothes",
-            drawable = "Drawable",
-            texture = "Texture",
-            mask = "Mask",
-            upperBody = "Hands",
-            lowerBody = "Legs",
-            bags = "Bags and parachute",
-            shoes = "Shoes",
-            scarfAndChains = "Scarf and chains",
-            shirt = "Shirt",
-            bodyArmor = "Body armor",
-            decals = "Decals",
-            jackets = "Jackets",
-            head = "Head"
+            title = "Drabužiai",
+            drawable = "Piešiamas",
+            texture = "Tekstūra",
+            mask = "kaukė",
+            upperBody = "Rankos",
+            lowerBody = "Kojos",
+            bags = "Krepšiai ir parašiutas",
+            shoes = "Batai",
+            scarfAndChains = "Šalikas ir grandinėlės",
+            shirt = "Marškinėliai",
+            bodyArmor = "Liemenės",
+            decals = "Lipdukai",
+            jackets = "Viršutiniai drabužiai",
+            head = "Kepurės"
         },
         props = {
-            title = "Props",
-            drawable = "Drawable",
-            texture = "Texture",
-            hats = "Hats and helmets",
-            glasses = "Glasses",
-            ear = "Ear",
-            watches = "Watches",
-            bracelets = "Bracelets"
+            title = "Rekvizitas",
+            drawable = "Piešimas",
+            texture = "Tekstūra",
+            hats = "Kepurės ir šalmai",
+            glasses = "Akiniai",
+            ear = "Auskarai",
+            watches = "Laikrodžiai",
+            bracelets = "apyrankės"
         },
         tattoos = {
-            title = "Tattoos",
+            title = "Tatuiruotės",
             items = {
-                ZONE_TORSO = "Torso",
-                ZONE_HEAD = "Head",
-                ZONE_LEFT_ARM = "Left arm",
-                ZONE_RIGHT_ARM = "Right arm",
-                ZONE_LEFT_LEG = "Left leg",
-                ZONE_RIGHT_LEG = "Right leg"
+                ZONE_TORSO = "Liemuo",
+                ZONE_HEAD = "Galva",
+                ZONE_LEFT_ARM = "Kairė ranka",
+                ZONE_RIGHT_ARM = "Dešinė ranka",
+                ZONE_LEFT_LEG = "Kairė koja",
+                ZONE_RIGHT_LEG = "Dešinė koja"
             },
-            apply = "Apply",
-            delete = "Remove",
-            deleteAll = "Remove all Tattoos",
-            opacity = "Opacity"
+            apply = "Taikyti",
+            delete = "Pašalinti",
+            deleteAll = "Pašalinti visas tatuiruotes",
+            opacity = "Neskaidrumas"
         }
     },
     outfitManagement = {
-        title = "Outfit Management",
-        jobText = "Manage outfits for Job",
-        gangText = "Manage outfits for Gang"
+        title = "Aprangos valdymas",
+        jobText = "Tvarkykite Darbo aprangą",
+        gangText = "Tvarkykite gaujos aprangą"
     },
     cancelled = {
-        title = "Cancelled Customization",
-        description = "Customization not saved"
+        title = "Atšauktas tinkinimas",
+        description = "Tinkinimas neišsaugotas"
     },
     outfits = {
         import = {
-            title = "Enter outfit code",
-            menuTitle = "Import Outfit",
-            description = "Import an outfit from a sharing code",
+            title = "Įveskite aprangos kodą",
+            menuTitle = "Importuoti aprangą",
+            description = "Importuokite aprangą iš bendrinimo kodo",
             name = {
-                label = "Name the Outfit",
-                placeholder = "A nice outfit",
-                default = "Imported Outfit"
+                label = "Pavadinkite aprangą",
+                placeholder = "Graži apranga",
+                default = "Importuota apranga"
             },
             code = {
-                label = "Outfit Code"
+                label = "Aprangos kodas"
             },
             success = {
-                title = "Outfit Imported",
-                description = "You can now change to the outfit using the outfit menu"
+                title = "Apranga importuota",
+                description = "Dabar galite pakeisti aprangą naudodami aprangos meniu"
             },
             failure = {
-                title = "Import Failure",
-                description = "Invalid outfit code"
+                title = "Importavimo gedimas",
+                description = "Neteisingas aprangos kodas"
             }
         },
         generate = {
-            title = "Generate Outfit Code",
-            description = "Generate an outfit code for sharing",
+            title = "Sukurkite aprangos kodą",
+            description = "Sugeneruokite aprangos kodą bendrinimui",
             failure = {
-                title = "Something went wrong",
-                description = "Code generation failed for the outfit"
+                title = "Kažkas negerai",
+                description = "Aprangos kodo generavimas nepavyko"
             },
             success = {
-                title = "Outfit Code Generated",
-                description = "Here is your outfit code"
+                title = "Sukurtas aprangos kodas",
+                description = "Čia yra jūsų aprangos kodas"
             }
         },
         save = {
-            menuTitle = "Save current Outfit",
-            menuDescription = "Save your current outfit as %s outfit",
-            description = "Save your current outfit",
-            title = "Name your outfit",
-            managementTitle = "Management Outfit Details",
+            menuTitle = "Išsaugokite dabartinę aprangą",
+            menuDescription = "Išsaugokite savo dabartinę aprangą kaip %s aprangą",
+            description = "Išsaugokite savo dabartinę aprangą",
+            title = "Pavadink savo aprangą",
+            managementTitle = "Valdymo aprangos detalės",
             name = {
-                label = "Outfit Name",
-                placeholder = "Very cool outfit"
+                label = "Aprangos pavadinimas",
+                placeholder = "Labai šauni apranga"
             },
             gender = {
-                label = "Gender",
-                male = "Male",
-                female = "Female"
+                label = "Lytis",
+                male = "Vyras",
+                female = "Moteris"
             },
             rank = {
-                label = "Minimum Rank"
+                label = "Minimalus Rangas"
             },
             failure = {
-                title = "Save Failed",
-                description = "Outfit with this name already exists"
+                title = "Išsaugoti nepavyko",
+                description = "Apranga tokiu pavadinimu jau yra"
             },
             success = {
-                title = "Success",
-                description = "Outfit %s has been saved"
+                title = "Sėkminga",
+                description = "Apranga %s buvo išsaugota"
             }
         },
         update = {
-            title = "Update Outfit",
-            description = "Save your current clothing to an existing outfit",
+            title = "Atnaujinkite aprangą",
+            description = "Išsaugokite esamus drabužius prie esamos aprangos",
             failure = {
-                title = "Update Failed",
-                description = "That outfit does not exist"
+                title = "Atnaujinimas nepavyko",
+                description = "Tokios aprangos nėra"
             },
             success = {
-                title = "Success",
-                description = "Outfit %s has been updated"
+                title = "Sėkmingai",
+                description = "Apranga %s buvo atnaujinta"
             }
         },
         change = {
-            title = "Change Outfit",
-            description = "Pick from any of your currently saved %s outfits",
-            pDescription = "Pick from any of your currently saved outfits",
+            title = "Keisti aprangą",
+            description = "Pasirinkite iš bet kurios šiuo metu išsaugotos %s aprangos",
+            pDescription = "Pasirinkite iš bet kurios šiuo metu išsaugotos aprangos",
             failure = {
-                title = "Something went wrong",
-                description = "The outfit that you're trying to change to, does not have a base appearance",
+                title = "Kažkas negerai",
+                description = "Apranga, į kurią bandote persirengti, neturi bazinės išvaizdos",
             }
         },
         delete = {
-            title = "Delete Outfit",
-            description = "Delete a saved %s outfit",
-            mDescription = "Delete any of your saved outfits",
+            title = "Ištrinti aprangą",
+            description = "Ištrinkite išsaugotą %s aprangą",
+            mDescription = "Ištrinkite visus išsaugotus drabužius",
             item = {
-                title = 'Delete "%s"',
-                description = "Model: %s%s"
+                title = 'Ištrinti "%s"',
+                description = "Modelis: %s%s"
             },
             success = {
-                title = "Success",
-                description = "Outfit Deleted"
+                title = "Sėkmingai",
+                description = "Apranga ištrinta"
             }
         },
         manage = {
-            title = "👔 | Manage %s Outfits"
+            title = "👔 | Tvarkykite %s aprangą"
         }
     },
     jobOutfits = {
-        title = "Work Outfits",
-        description = "Pick from any of your work outfits"
+        title = "Darbo apranga",
+        description = "Pasirinkite iš bet kurios savo darbo aprangos"
     },
     menu = {
-        returnTitle = "Return",
-        title = "Clothing Room",
-        outfitsTitle = "Player Outfits",
-        clothingShopTitle = "Clothing Shop",
-        barberShopTitle = "Barber Shop",
-        tattooShopTitle = "Tattoo Shop",
-        surgeonShopTitle = "Surgeon Shop"
+        returnTitle = "Grįžti",
+        title = "Drabužių kambarys",
+        outfitsTitle = "Žaidėjo aprangos",
+        clothingShopTitle = "Drabužių parduotuvė",
+        barberShopTitle = "Kirpykla",
+        tattooShopTitle = "Tatuiruočių salonas",
+        surgeonShopTitle = "Įrankių parduotuvė"
     },
     clothing = {
-        title = "Buy Clothing - $%d",
-        titleNoPrice = "Change Clothing",
+        title = "Pirkti drabužius – $%d",
+        titleNoPrice = "Keisti Drabužius",
         options = {
-            title = "👔 | Clothing Store Options",
-            description = "Pick from a wide range of items to wear"
+            title = "👔 | Drabužių parduotuvės pasirinkimai",
+            description = "Rinkitės iš plataus asortimento, kurį norite dėvėti"
         },
         outfits = {
-            title = "👔 | Outfit Options",
+            title = "👔 | Aprangos pasirinkimai",
             civilian = {
-                title = "Civilian Outfit",
-                description = "Put on your clothes"
+                title = "Civilinė apranga",
+                description = "Apsirenk drabužius"
             }
         }
     },
     commands = {
         reloadskin = {
-            title = "Reloads your character",
+            title = "Iš naujo įkelia jūsų personažą",
             failure = {
-                title = "Error",
-                description = "You cannot use reloadskin right now"
+                title = "Klaida",
+                description = "Šiuo metu negalite naudoti reloadskin"
             }
         },
         clearstuckprops = {
-            title = "Removes all the props attached to the entity",
+            title = "Pašalina visus prie objekto pritvirtintus rekvizitus",
             failure = {
-                title = "Error",
-                description = "You cannot use clearstuckprops right now"
+                title = "Klaida",
+                description = "Šiuo metu negalite naudoti Clearstuckprops"
             }
         },
         pedmenu = {
-            title = "Open / Give Clothing Menu",
+            title = "Atidaryti / duoti drabužių meniu",
             failure = {
-                title = "Error",
-                description = "Player not online"
+                title = "Klaida",
+                description = "Žaidėjas neprisijungęs"
             }
         },
         joboutfits = {
-            title = "Opens Job Outfits Menu"
+            title = "Atidaromas darbo aprangos meniu"
         },
         gangoutfits = {
-            title = "Opens Gang Outfits Menu"
+            title = "Atidaromas gaujos aprangos meniu"
         },
         bossmanagedoutfits = {
-            title = "Opens Boss Managed Outfits Menu"
+            title = "Atidaro direktoriaus aprangų tvarkymo meniu"
         }
     },
     textUI = {
-        clothing = "Clothing Store - Price: $%d",
-        barber = "Barber - Price: $%d",
-        tattoo = "Tattoo Shop - Price: $%d",
-        surgeon = "Plastic Surgeon - Price: $%d",
-        clothingRoom = "Clothing Room",
-        playerOutfitRoom = "Outfits"
+        clothing = "Drabužių parduotuvė – Kaina: $%d",
+        barber = "Kirpykla – Kaina: $%d",
+        tattoo = "Tatuiruočių salonas – kaina: $%d",
+        surgeon = "Įrankių parduotuvė – kaina: $%d",
+        clothingRoom = "Drabužių kambarys",
+        playerOutfitRoom = "Aprangos"
     },
     migrate = {
         success = {
-            title = "Success",
-            description = "Migration finished. %s skins migrated",
-            descriptionSingle = "Migrated Skin"
+            title = "Sėkmingai",
+            description = "Persikėlimas baigtas. Perkelta %s išvaizda",
+            descriptionSingle = "Perkelti išvaizdą"
         },
         skip = {
-            title = "Information",
-            description = "Skipped skin"
+            title = "Informacija",
+            description = "Praleista išvaizda"
         },
         typeError = {
-            title = "Error",
-            description = "Invalid type"
+            title = "Klaida",
+            description = "Netinkamas tipas"
         }
     },
     purchase = {
         tattoo = {
             success = {
-                title = "Success",
-                description = "Purchased %s tattoo for %s$"
+                title = "Sėkmingai",
+                description = "Nusipirkau %s tatuiruotę už %s$"
             },
             failure = {
-                title = "Tattoo apply failed",
-                description = "You don't have enough money!"
+                title = "Nepavyko pritaikyti tatuiruotės",
+                description = "Jūs neturite pakankamai pinigų!"
             }
         },
         store = {
             success = {
-                title = "Success",
-                description = "Gave $%s to %s!"
+                title = "Sėkmingai",
+                description = "Davė $%s %s!"
             },
             failure = {
-                title = "Exploit!",
-                description = "You didn't have enough money! Tried to exploit the system!"
+                title = "Išnaudokite!",
+                description = "Jūs neturėjote pakankamai pinigų! Bandžiau išnaudoti sistemą!"
             }
         }
     }
