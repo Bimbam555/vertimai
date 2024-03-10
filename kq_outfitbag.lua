@@ -3,15 +3,15 @@
 
 
 Locale = {
-    ['Open Bag'] = 'Open Bag',
-    ['Outfit bag'] = 'Outfit bag',
-    ['Pickup the bag'] = 'Pickup the bag',
-    ['Make public'] = 'Make public',
-    ['Make private'] = 'Make private',
-    ['~r~This outfit isn\'t suitable for you'] = '~r~This outfit isn\'t suitable for you',
-    ['~w~[~g~{OPEK_KEYBIND}~w~] to open [~g~{PICKUP_KEYBIND}~w~] to pickup the bag'] = '~w~[~g~{OPEK_KEYBIND}~w~] to open [~g~{PICKUP_KEYBIND}~w~] to pickup the bag',
-    ['~w~Press [~g~{PUBLIC_KEYBIND}~w~] to open make the bag ~r~private'] = '~w~Press [~g~{PUBLIC_KEYBIND}~w~] to open make the bag ~r~private',
-    ['~w~Press [~g~{PUBLIC_KEYBIND}~w~] to open make the bag ~g~public'] = '~w~Press [~g~{PUBLIC_KEYBIND}~w~] to open make the bag ~g~public',
-    ['~w~[~g~{OPEN_KEYBIND}~w~] to open the bag'] = '~w~[~g~{OPEN_KEYBIND}~w~] to open the bag',
-    ['~r~Wait a bit before you switch outfits again'] = '~r~Wait a bit before you switch outfits again',
+    ['Open Bag'] = 'Atidarytas krepšys',
+    ['Outfit bag'] = 'Aprangos krepšys',
+    ['Pickup the bag'] = 'Paimk krepšį',
+    ['Make public'] = 'Padaryti viešą',
+    ['Make private'] = 'Padaryti privatų',
+    ['~r~This outfit isn\'t suitable for you'] = '~r~Ši apranga jums netinka',
+    ['~w~[~g~{OPEK_KEYBIND}~w~] to open [~g~{PICKUP_KEYBIND}~w~] to pickup the bag'] = '~w~[~g~{OPEK_KEYBIND}~w~] atidaryti [~g~{PICKUP_KEYBIND}~w~] ir pasiimti krepšį',
+    ['~w~Press [~g~{PUBLIC_KEYBIND}~w~] to open make the bag ~r~private'] = '~w~Paspauskite [~g~{PUBLIC_KEYBIND}~w~], kad atidarytumėte krepšį ~r~privatų',
+    ['~w~Press [~g~{PUBLIC_KEYBIND}~w~] to open make the bag ~g~public'] = '~w~Paspauskite [~g~{PUBLIC_KEYBIND}~w~], kad atidarytumėte krepšį ~g~viešą',
+    ['~w~[~g~{OPEN_KEYBIND}~w~] to open the bag'] = '~w~[~g~{OPEN_KEYBIND}~w~], kad atidarytumėte krepšį',
+    ['~r~Wait a bit before you switch outfits again'] = '~r~ Šiek tiek palaukite, kol vėl keisite aprangą',
 }
