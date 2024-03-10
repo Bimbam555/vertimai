@@ -104,7 +104,7 @@ Locales = {
     ['ERROR_CREATING_DATA'] = 'Klaida kuriant duomenis',
     ['CANT_GET_PLAYER_IDENTIFIER'] = 'Nepavyko gauti žaidėjo identifikatoriaus',
     ['VIEW_BODY_CAM'] = 'Peržiūrėkite kūno kamerą',
-    ['CANOT_USE_BODYCAM_YOUR_NOT_IN_ZONE'] = 'Negalite naudoti kūno kameros, nes nesate įtrauktas į baltąjį sąrašą, kad galėtumėte peržiūrėti kūno kameras',
+    ['CANOT_USE_BODYCAM_YOUR_NOT_IN_ZONE'] = 'Negalite peržiūrėti šioje vietoje kūno kameros vaizdo įrašų. ',
     ['ENTERING_BODYCAM_ZONE'] = "Įeikite į zoną, kad galėtumėte naudoti kūno kameros peržiūrą",
     ['EXITING_BODYCAM_ZONE'] = "Išeikite iš zonos, kad galėtumėte naudoti kūno kameros peržiūros priemonę",
     ['DEPARTMENT_NAME'] = "Los Santos policijos departamentas",
@@ -114,7 +114,7 @@ Locales = {
     ['ADD_CHARGES'] = 'Pridėti mokesčius',
     ['TIME_IS_UP'] = 'Laikas baigėsi, palaukite, pareigūnai atvyksta pas jus!',
     ['TIME_TO_OUT'] = 'Išėjimo laikas: ',
-    ['FINE'] = 'gerai',
+    ['FINE'] = 'Bausmė',
     ['JAIL_TIME'] = 'Įkalinimo laikas',
     
     ['ENTER_IN_JAIL_TITLE'] = 'Jūs buvote sulaikytas LSPD',
@@ -122,7 +122,7 @@ Locales = {
     ['EXIT_FROM_JAIL_TITLE'] = 'Jus išleido LSPD',
     ['EXIT_FROM_JAIL_DESCRIPT'] = 'Galite laisvai eiti!',
 
-    ['NO_CLOSETS_CITIZEN'] = 'Jokių civilinių drabužių',
+    ['NO_CLOSETS_CITIZEN'] = 'Nėra asmens šalia',
     ['SEND_NEAR_TO_JAIL'] = 'Nusiųsti netoli esančius nusikaltėlius į kalėjimą, Į kalėjimo zoną',
 
     ['DAY'] = 'Diena',
