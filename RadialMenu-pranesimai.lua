@@ -10,12 +10,12 @@ local Translations = {
         race_harness_on = "Turite lenktyninius diržus, negalite pakeisti",
         obj_not_found = "Nepavyko sukurti prašomo objekto",
         not_near_ambulance = "Jūs nesate šalia greitosios pagalbos",
-        far_away = "Tu per toli",
+        far_away = "Jūs per toli",
         stretcher_in_use = "Šie neštuvai jau naudojami",
-        not_kidnapped = "Jūs nepagrobėte šio žmogaus",
+        not_kidnapped = "Jūs nepagrobėte šio asmens",
         trunk_closed = "Bagažinė uždaryta",
         cant_enter_trunk = "Jūs negalite patekti į šią bagažinę",
-        already_in_trunk = "Tu jau bagažinėje",
+        already_in_trunk = "Jūs jau bagažinėje",
         someone_in_trunk = "Kažkas jau yra bagažinėje"
     },
     success = {
@@ -23,8 +23,8 @@ local Translations = {
         entered_trunk = "Jūs esate bagažinėje"
     },
     info = {
-        no_variants = "Atrodo, kad tam nėra jokių variantų",
-        wrong_ped = "Šiame ped modelyje ši parinktis neleidžiama",
+        no_variants = "Atrodo, kad šiam veiksmui nėra jokių variantų",
+        wrong_ped = "Šiam objektui ši parinktis neleidžiama",
         nothing_to_remove = "Atrodo, kad neturite ką pašalinti",
         already_wearing = "Jūs jau tai dėvite",
         switched_seats = "Dabar esate %{seat}"
@@ -35,11 +35,11 @@ local Translations = {
         stop_pushing_stretcher_button = "~g~E~w~ - Nustokite stumti",
         lay_stretcher_button = "~g~G~w~ – gulėkite ant neštuvų",
         push_position_drawtext = "Stumkite čia",
-        get_off_stretcher_button = "~g~G~w~ – Nulipkite neštuvais",
-        get_out_trunk_button = "[~g~E~w~] Išlipk iš bagažinės",
+        get_off_stretcher_button = "~g~G~w~ – Nulipkite nuo neštuvų",
+        get_out_trunk_button = "[~g~E~w~] Išlipkite iš bagažinės",
         close_trunk_button = "[~g~G~w~] Uždarykite bagažinę",
         open_trunk_button = "[~g~G~w~] Atidarykite bagažinę",
-        getintrunk_command_desc = "Įlipk į bagažinę",
+        getintrunk_command_desc = "Įlipkite į bagažinę",
         putintrunk_command_desc = "Įdėkite žmogų į bagažinę"
     },
     options = {
@@ -48,7 +48,7 @@ local Translations = {
         passenger_seat = "Keleivio sėdynė",
         other_seats = "Kita sėdynė",
         rear_left_seat = "Kairė galinė sėdynė",
-        rear_right_seat = "Galinė dešinė sėdynė"
+        rear_right_seat = "Dešinė galinė sėdynė"
     },
 }
 
