@@ -1,8 +1,5 @@
--- To edit the messages edit the ones on the right side, not the ones inside the square brackets.
--- ~r~ e.g. are colors. ~r~ being red, ~b~ being blue, ~y~ yellow etc.
-
-
 Locale = {
+    ['Open Bag'] = 'Atidarykite krepšys',
     ['Open Bag'] = 'Atidarykite krepšį',
     ['Outfit bag'] = 'Aprangos krepšys',
     ['Pickup the bag'] = 'Paimk krepšį',
