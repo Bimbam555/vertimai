@@ -4674,14 +4674,14 @@ Translations = {
         [69] = {
             ['UI'] = {
                 Text_Info = {
-                    "Labas, gal tu esi iš tų drąsių asmenų, kuris nebijo rizikingo darbo? Mano grupuotė greitu metu planuoja naują vagystę. Esame įtraukti į juodąjį sąrašą visose ginklų parduotuvėse. Ar nupirktum mums reikalingos įrangos? Sumokėsiu pakankamai.",
+                    "Labas, gal tu esi iš tų drąsių asmenų ir nebijai rizikingo darbo? Mano grupuotė greitu metu planuoja naują vagystę. Esame įtraukti į juodąjį sąrašą visose ginklų parduotuvėse. Ar nupirktum mums reikalingos įrangos? Sumokėsiu pakankamai.",
                     "Priviet. Nori pasikelt šaibų? Klausyk, nuvarai į ginklinę, paimi pora dėžučių kulkų. Atsilyginu iškart.",
-                    "Zdare, yra diela. Reikia pagązdinti vieną skolininką. Tam man reikia kulkų. Gal galėtum palėkti į ginklinę paimti? Skoloje neliksiu.",
+                    "Zdare, yra diela. Reikia pagąsdinti vieną skolininką. Tam man reikia kulkų. Gal galėtum palėkti į ginklinę paimti? Skoloje neliksiu.",
                     "Labas, ar sudomintų greiti ir švarūs pinigai? Tu man nuperki kulkų, aš tau sumoku už vargą. Tinka?",
-                    "Laba, gal pagelbėtum už atitinkamą atlygį? Šiuo metu esu paieškų sąraše, o ginklų parduotuvėje yra paliktas senas mano užsakymas. Gal galėtum apsimesti manimi ir paimti užsakymą? Pinigai iš karto į tavo kisenę.",
-                    "Sveiki, mane visą savaitę persekioja neaiškūs tipai. Turiu saviginos ginklą, bet neturiu kulkų ir negaliu jų nusipirti, nes ginklas nelegalus. Gal galėtum nupirkti tu? Sumokėsiu tau.",
+                    "Laba, gal pagelbėtum už atitinkamą atlygį? Šiuo metu esu paieškų sąraše, o ginklų parduotuvėje yra paliktas senas mano užsakymas. Gal galėtum apsimesti manimi ir paimti užsakymą? Pinigai iš karto į tavo kišenę.",
+                    "Sveiki, mane visą savaitę persekioja neaiškūs tipai. Turiu savigynos ginklą, bet neturiu kulkų ir negaliu jų nusipirkti, nes ginklas nelegalus. Gal galėtum nupirkti tu? Sumokėsiu tau.",
                     "Labas, nori greitai pasikelt ant bapkių? Jei taip, tai be klausimų. Diela tokia, nuvaryk į ginklinę, nupirk dėžutę kulkų ir atnešk man. Sumokėsiu, kaip priklauso.",
-                    "Zdare, davai padėk man, o aš sumokėsiu tau NORMALIAI. Vienam veikėjui reikia plunksnas patrumpinti, o tam man reikia šovinukų, kurių šiuo metu man neparduoda. Nuperki- atneši- šaibos tavo.",
+                    "Zdare, davai padėk man, o aš sumokėsiu tau NORMALIAI. Vienam veikėjui reikia plunksnas patrumpinti, o tam man reikia šovinukų, kurių šiuo metu man neparduoda. Nuperki, atneši - šaibos tavo.",
                     "Laba, matau nebijai rizikos? Pavažiuoji iki ginklinės ir paimi mano anoniminį užsakymą. Viskas. Atlygis bus daugiau, nei dosnus.",
                     "Zdarov, kaip laikaisi? 100 metų nesimatėm. Vėl mane prikirpo, nebegaunu kulkų. Gal nupirktum? Kaip visada sumokėsiu.",
                 },
@@ -4813,10 +4813,10 @@ Translations = {
                         "Sveiki, įkūriau naują IT įmonę ir noriu, kad parekomenduotumėte ją žmonėms, už tai sumokėsiu. Sutinkate?",
                         "Alio alio, gavau naują peiliukų siuntą, iš grūdinto plieno, deja mano komunikacijos gebėjimai silpni, priviliok klientus už tai pamokėsiu.",
                         "Krč, yra diela. Turiu šviečiančių laikrodukų tokių čiki piki ir reik prastumti juos kieme. Gerų kalbėjimo įgūdžių neturiu, gal būt tu gali?",
-                        "Turiu gerą varkę tiek tau, tiek man. Reikia privilioti žmones jog pirktų naujus ‚Nikee‘ treningiukus. Už parduotus treningus, navarą dalinam per pusę.",
-                        "Na labas, žinai su draugu kūriau žaidimų klubą, deja neatsirado norinčių ateiti. Reikia jog pasiūlytum jiems apsilankyti, pakalbink, aisku, gali ir makaronų ten pakabinti. Ne tik ,kad sumokėsiu, bet ir dar tau klubelyje VIP'uką suveiksiu.",
+                        "Turiu gerą varkę tiek tau, tiek man. Reikia privilioti žmones jog pirktų naujus ‚Nike‘ treningiukus. Už parduotus treningus, navarą dalinam per pusę.",
+                        "Na labas, žinai su draugu kūriau žaidimų klubą, deja neatsirado norinčių ateiti. Reikia jog pasiūlytum jiems apsilankyti, pakalbink, aišku, gali ir makaronų ten pakabinti. Ne tik ,kad sumokėsiu, bet ir dar tau klubelyje VIP'uką suveiksiu.",
                         "Sveiki, bus naujo striptizo klubo atidarymas, jei gali ir nori užsidirbti, išdalink skrajutes praeiviams. Tinka?",
-                        "Sveiki, esu pradedantysis dainų autorius, padėk man ir išdalink mano pirmojo koncerto pakvietimus. Sutinki?",
+                        "Sveiki, pradėjau rašyti dainas, koncertas ant nosies, bet reklamos nulis. Padėk man ir išdalinkim kartu mano pirmojo koncerto pakvietimus. Sutinki?",
                     },
                     Text_Yes = {
                     "Žinoma!",
@@ -5008,15 +5008,15 @@ Translations = {
         [74] = { 
             ['UI'] = {
                 Text_Info = {
-                    "Labas, esu graffiti menininkas ir ohoho, kokia čia problemėlė, matai dirbu nelegaliai, todėl dažnai įkliūnu policijai. Gal galėtum nukreipti policininkų dėmesį kol baigsiu savo darbą?",
+                    "Labas, esu iš graffiti menininkų grupės ir ohoho, kokia čia problemėlė, matai dirbu nelegaliai, todėl dažnai įkliūnu policijai. Gal galėtum nukreipti policininkų dėmesį kol baigsiu savo darbą?",
                     "Bratan, taip jau atsitiko, kad pasiėmiau darbelį papaišyt, bet kaip matai prie mūsų stovi policija, reikia tavo pagalbos nukreipti jų dėmesį. Gausi atlygį už tai. Susidorosi?",
                     "Labas, esu nestandartinis menininkas, tačiau policijos bijau, vaikšto čia, žiūri į mane kreivu žvilgsiu, padėk man, užkalbink mentą kol išpaišysiu savo šedevrą. Nebijok, vargas ne už dyką, atsiskaitysim.",
-                    "Zdarof, paprašysiu tavęs nukreipti netoliese esančio mento dėmesį, nes man reikia nupurkšti ant sienos užrašą, rytojaus dienos protestui. Užkniso seimas ir negyvai. Ar sugebėsi tai padaryti?",
+                    "Zdarof, paprašysiu tavęs nukreipti netoliese esančio mento dėmesį, nes man reikia nupurkšti ant sienos užrašą, rytojaus dienos protestui. Užkniso seimas negyvai. Ar sugebėsi tai padaryti?",
                     "Ot laikai atėjo.. Piešiu, kad išgyvenčiau, tačiau mano meno netoleruoja policija. Pasakyk policijai jog netoliese apiplėšė asmenį, tai turėtų nukreipti jų dėmesį. Atsidėkosiu.",
                     "Zdarova, pabazarink su mentu kol pabaigsiu piešti graffiti. Numesiu kapeikų.",
-                    "Su draugeliais susilažinom, triohala būt nenoriu, tačiau turiu būtent čia nupiešti gaidžio portretą. Reikia tavo pagalbos šiose lažybose nukreipiant pareigūnų dėmesį.",
-                    "Esu jaunas chuliganas, mėgstu papaišyti vis, bet policija vis kabinėjasi, jau net baudų nebeišgaliu susimokėti. O piešti ohoho, kaip noriu. Eik, pabazarink ten su jais, suvelk kažką, kad mane pridengtum. Padėsi, sumokėsiu, susitariam?",
-                    "Yo yo yo, Gatvė laukas pinigai, gali baigtis negerai. Pasiėmęs aš teptuką, nupaišysiu piešinuką, gali baigtis man blogai, mentai vejas ištisai. Būk draugelis ne ožys, užkalbėk tu jiems dantis.",
+                    "Su draugeliais susilažinom, triohala būt nenoriu, tačiau turiu būtent čia nupiešti gaidžio portretą. Reikia tavo pagalbos šiose lažybose nukreipiant pareigūnų dėmesį. Padėsi?",
+                    "Zdare, žinai mėgstu papaišyti viešose vietose, bet policija vis kabinėjasi, jau net baudų nebeišgaliu susimokėti. O piešti ohoho, kaip noriu. Eik, pabazarink ten su jais, suvelk kažką, kad mane pridengtum. Padėsi, sumokėsiu, susitariam?",
+                    "Yo yo yo! Gatvė laukas pinigai, gali baigtis negerai. Pasiėmęs aš teptuką, nupaišysiu piešinuką, gali baigtis man blogai, mentai vejas ištisai. Būk draugelis ne ožys, užkalbėk tu jiems dantis.",
                 },
                 Text_Yes = {
                     "Žinoma!",
@@ -5077,15 +5077,15 @@ Translations = {
         [75] = { 
             ['UI'] = {
                 Text_Info = {
-                    "Labas, esu graffiti menininkas ir ohoho, kokia čia problemėlė, matai dirbu nelegaliai, todėl dažnai įkliūnu policijai. Gal galėtum nukreipti policininkų dėmesį kol baigsiu savo darbą?",
+                    "Labas, esu iš graffiti menininkų grupės ir ohoho, kokia čia problemėlė, matai dirbu nelegaliai, todėl dažnai įkliūnu policijai. Gal galėtum nukreipti policininkų dėmesį kol baigsiu savo darbą?",
                     "Bratan, taip jau atsitiko, kad pasiėmiau darbelį papaišyt, bet kaip matai prie mūsų stovi policija, reikia tavo pagalbos nukreipti jų dėmesį. Gausi atlygį už tai. Susidorosi?",
                     "Labas, esu nestandartinis menininkas, tačiau policijos bijau, vaikšto čia, žiūri į mane kreivu žvilgsiu, padėk man, užkalbink mentą kol išpaišysiu savo šedevrą. Nebijok, vargas ne už dyką, atsiskaitysim.",
-                    "Zdarof, paprašysiu tavęs nukreipti netoliese esančio mento dėmesį, nes man reikia nupurkšti ant sienos užrašą, rytojaus dienos protestui. Užkniso seimas ir negyvai. Ar sugebėsi tai padaryti?",
+                    "Zdarof, paprašysiu tavęs nukreipti netoliese esančio mento dėmesį, nes man reikia nupurkšti ant sienos užrašą, rytojaus dienos protestui. Užkniso seimas negyvai. Ar sugebėsi tai padaryti?",
                     "Ot laikai atėjo.. Piešiu, kad išgyvenčiau, tačiau mano meno netoleruoja policija. Pasakyk policijai jog netoliese apiplėšė asmenį, tai turėtų nukreipti jų dėmesį. Atsidėkosiu.",
                     "Zdarova, pabazarink su mentu kol pabaigsiu piešti graffiti. Numesiu kapeikų.",
-                    "Su draugeliais susilažinom, triohala būt nenoriu, tačiau turiu būtent čia nupiešti gaidžio portretą. Reikia tavo pagalbos šiose lažybose nukreipiant pareigūnų dėmesį.",
-                    "Esu jaunas chuliganas, mėgstu papaišyti vis, bet policija vis kabinėjasi, jau net baudų nebeišgaliu susimokėti. O piešti ohoho, kaip noriu. Eik, pabazarink ten su jais, suvelk kažką, kad mane pridengtum. Padėsi, sumokėsiu, susitariam?",
-                    "Yo yo yo, Gatvė laukas pinigai, gali baigtis negerai. Pasiėmęs aš teptuką, nupaišysiu piešinuką, gali baigtis man blogai, mentai vejas ištisai. Būk draugelis ne ožys, užkalbėk tu jiems dantis.",
+                    "Su draugeliais susilažinom, triohala būt nenoriu, tačiau turiu būtent čia nupiešti gaidžio portretą. Reikia tavo pagalbos šiose lažybose nukreipiant pareigūnų dėmesį. Padėsi?",
+                    "Zdare, žinai mėgstu papaišyti viešose vietose, bet policija vis kabinėjasi, jau net baudų nebeišgaliu susimokėti. O piešti ohoho, kaip noriu. Eik, pabazarink ten su jais, suvelk kažką, kad mane pridengtum. Padėsi, sumokėsiu, susitariam?",
+                    "Yo yo yo! Gatvė laukas pinigai, gali baigtis negerai. Pasiėmęs aš teptuką, nupaišysiu piešinuką, gali baigtis man blogai, mentai vejas ištisai. Būk draugelis ne ožys, užkalbėk tu jiems dantis.",
                 },
                 Text_Yes = {
                     "Žinoma!",
@@ -5146,9 +5146,9 @@ Translations = {
         [76] = {
             ['UI'] = {
                 Text_Info = {
-                    "Ei! Mano mažylio brolio gimtadienis yra per Heloviną, ir aš pažadėjau jam saldainių iš visų garsiausių miesto vietų. Bet mano darbas man trukdo. Ar galėtum padėti man? Aš pasirūpinsiu, kad tai būtų verta tavo laiko!",                
-                    "Sveiki! Dalyvauju vietinėje labdaros organizacijoje, o mes stengiamės surinkti saldainius iš įvairių miesto vietų renginiui. Labai pavargau nuo organizavimo. Ar galėtum mum padėti? Renginyje bus įvertintos jūsų pastangos!",                
-                    "Labas! Byla vietinė legenda, kuri sako, kad saldainių rinkimas iš septynių miesto vietų, kuriose vyrauja persekiojimai, suteikia jums sėkmės metus. Esu šiek tiek prietaringas, bet ir laiko trūksta. Nori kartu išsiaiškinti šią legendą? Pažadu pasidalinti sėkme ir specialiu prizu!",                
+                    "Ei! Mano mažylio brolio gimtadienis yra per Heloviną ir pažadėjau jam saldainių iš visų garsiausių miesto vietų, bet mano darbas man trukdo. Ar galėtum padėti man? Aš pasirūpinsiu, kad tai būtų verta tavo laiko ir sumokėsiu!",                
+                    "Sveiki! Dalyvauju vietinėje labdaros organizacijoje, o mes stengiamės surinkti saldainius iš įvairių miesto vietų renginiui. Labai pavargau nuo organizavimo. Ar galėtum mum padėti? Sumokėsiu!",                
+                    "Labas! Yra vietinė legenda, kuri sako, kad saldainių rinkimas iš septynių miesto vietų, kuriose vyrauja persekiojimai, suteikia sėkmingus metus. Esu šiek tiek prietaringas, bet ir laiko trūksta. Nori kartu išsiaiškinti šią legendą? Pažadu pasidalinti sėkme ir specialiu prizu!",                
                     "Sveiki! Aš tyrinėjau Helovino saldainių istoriją mūsų mieste. Man reikia surinkti pavyzdžius iš konkrečių vietų, bet trūksta laisvo laiko. Ar galėtumėte padėti šiame mielame darbe? Pasidalinsiu savo išvadomis ir suteiksiu šiek tiek kompensacijos!",                
                     "Ei, saldainių entuziaste! Sklando gandas apie ypatingų saldainių seriją, kurią sujungus atskleidžiamas slaptas Helovino receptas. Aš ieškau, bet miestas didžiulis. Nori prisijungti? Pasidalinsime slaptingu skanėstu!",                
                     "Sveiki! Miesto senoliai kalba apie tradiciją, kai iš įvairių įžymybių surinktus saldainius galima iškeisti į unikalų Helovino artefaktą. Mano svajonė jį rasti. Manote, kad galėtumėte padėti šioje misijoje? Jūsų laukia artefakto istorija ir padėkos ženklas!",               
