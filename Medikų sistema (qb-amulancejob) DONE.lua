@@ -7,13 +7,13 @@ Locales['en'] = {
     respawnmenutitle = 'Ligoninės',
     nomoney = 'Nepakanka pinigų!',
     bedfull = 'Visos lovos užimtos. Laukite laisvos vietos...',
-    gettinghelp = '~g~Gaunate pagalbos, liko ~b~%s sekundės!',
+    gettinghelp = '~g~Gaunate pagalbos, liko ~b~%s sekundės/ių!',
 
     elevator = 'Liftas',
     elevatoraccess = '[E] – liftas',
 
-    onparacetamol = 'Tu jau išgėrei tabletę. Palaukite %ss, kad paimtumėte kitą.',
-    ontakeparacetamol = 'Išgėrei tabletę. Tai užtruks %ss, kad sumažintumėte skausmą.',
+    onparacetamol = 'Jūs jau išgėrėte tabletę. Palaukite %ss, kad paimtumėte kitą.',
+    ontakeparacetamol = 'Išgėrėte tabletę. Tai užtruks %ss, kad sumažintumėte skausmą.',
     takingparacetamol = 'Paracetamolio vartojimas...',
     severeinjury = "Jūs turite sunkų sužalojimą, kurio negalite gydyti paracetamoliu. Atėjo laikas apsilankyti pas gydytoją.",
     severeinjuries = "Jūs turite keletą sunkių sužalojimų, kurių negalite išgydyti paracetamoliu. Atėjo laikas apsilankyti pas gydytoją.",
@@ -30,10 +30,10 @@ Locales['en'] = {
     alreadyhealing = "Ši kūno dalis jau gyja...",
 
     takingmorphine = "Vartojate morfiną...",
-    tookmorphine30 = "Išgėrei 30 mg morfijaus. Tai palengvina stiprų skausmą!",
-    tookmorphine10 = "Išgėrei 10 mg morfijaus. Tai palengvina skausmą!",
-    noseverepain = "Jūs neturite stipraus skausmo!",
-    nosevereormoderatepain = "Jūs neturite vidutinio ar stipraus skausmo!",
+    tookmorphine30 = "Išgėrėte 30 mg morfijaus. Tai palengvina stiprų skausmą!",
+    tookmorphine10 = "Išgėrėte 10 mg morfijaus. Tai palengvina skausmą!",
+    noseverepain = "Jums nėra stipraus skausmo!",
+    nosevereormoderatepain = "Jūms nėra vidutinio ar stipraus skausmo!",
     alreadymorphine = "Jūs jau vartojate morfijų!",
 
     usingfirstaid = "Naudojate pirmosios pagalbos rinkinį...",
@@ -56,11 +56,11 @@ Locales['en'] = {
     damagerleg  = "Pažeista dešinė koja: %s",
 
     applyneckbrace  = "Uždėkite kaklo įtvarą",
-    applybodybandage = "Uždėkite korpuso tvarstį",
+    applybodybandage = "Uždėkite kūno tvarstį",
     applyarmbrace  = "Uždėkite rankos įtvarą",
     applylegbrace  = "Uždėkite kojos įtvarą",
 
-    notenough  = "Neturi %s",
+    notenough  = "Neturite %s",
 
     givemorphine30  = "Duoti 30 mg morfino",
 
@@ -115,7 +115,7 @@ Locales['en'] = {
     modification = 'Modifikacijos',
     extra = 'Papildyti %s',
     livery = 'Lipdukai %s',
-    spawnnotclear = 'Transporto išvarymo vieta nėra tuščia!',
+    spawnnotclear = 'Transporto išvarymo vieta užimta!',
 
     suicideweapon = "**%s** 'nusižudė' (*%s* – *%s*)",
     suicideevent  = "**%s** 'nusižudė' (*%s*)",
@@ -135,10 +135,10 @@ Locales['en'] = {
 
     payment   = "Jūs gavote $%s už šį gydymą.",
 
-    distresssignal   = 'Norėdami išsiųsti nelaimės signalą, paspauskite ~g~[G]~s~',
-    nodistress   = "Nerasta nelaimės įspėjimo!",
+    distresssignal   = 'Norėdami išsiųsti pagalbos signalą, paspauskite ~g~[G]~s~',
+    nodistress   = "Nerasta pagalbos signalo!",
     dispatch   = "Išsiuntimas",
-    dispatchaccepted   = "Jūsų nelaimės signalas gautas. Medikai jau pakeliui.",
+    dispatchaccepted   = "Jūsų pagalbos signalas gautas. Medikai jau pakeliui.",
     dispatchalert = '[10-47] Reikia medicininės pagalbos %s, %s',
     waypoint = 'Kelio taškas pažymėtas jūsų GPS',
 
