@@ -1,11 +1,11 @@
 local Translations = {
     success = {
         hackingcompleted = "Sėkmingai įsibrovėte į sistemą",
-        thermite = "Sėkmingai panaudojote Termito užtaisą"
+        thermite = "Sėkmingai panaudojote termito užtaisą"
 
     },
     error = {
-        donthavethermite = "Jums reikia Termito užtaiso",
+        donthavethermite = "Jums reikia termito užtaiso",
         donthavesecuritycard = "Jums reikia Bobcat apsaugos kortelės",
         donthavec4 = "Jums reikia C4",
         hackingfailed = "Bandymas nesėkmingas",
@@ -14,11 +14,11 @@ local Translations = {
             tostring(Config.PoliceNeeded) .. " pareigūnų"
     },
     progress = {
-        usingthermal = "Naudojamas Termitas"
+        usingthermal = "Naudojamas termitas"
     },
     prompt = {
-        swipecard = "Perbraukti apsaugos kortą",
-        placethermite = "Naudoti Termitą",
+        swipecard = "Perbraukti Bobcat apsaugos kortą",
+        placethermite = "Naudoti termitą",
         placec4 = "Naudoti C4",
         takegold = "Paimti auksą",
         takemoney = "Paimti pinigus"
