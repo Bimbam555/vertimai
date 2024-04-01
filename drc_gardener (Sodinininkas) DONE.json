@@ -1,85 +1,85 @@
 {
-  "hello_there": "Sveiki !",
+  "hello_there": "Sveiki!",
   "decline": "Atsisakyti",
   "accept": "Priimti pasiūlymą",
 
   "end_job": "Baigti darbą",
-  "find_another_mission": "Raskite kitą misiją",
+  "find_another_mission": "Raskite kitą darbą",
 
   "clean_weeds_message": "Sveiki! Man reikia išvalyti šias piktžoles, ar galėtumėte tai padaryti?",
   "lawnmower_message": "Sveiki! Man reikia sutvarkyti veją, ar galėtumėte tai padaryti?",
-  "water_plants_message": "Sveiki! Man reikia laistyti savo augalus, ar galėtumėte tai padaryti?",
-  "rake_leafs_message": "Sveiki! Man reikia sugrėbti šias lapų krūvas. Ar galėtum tai padaryti?",
-  "tree_plant_message": "Sveiki! Man reikia pasodinti keletą medžių sodinukų. Ar gali tai padaryti ?",
-  "new_mission_message": "Jūsų žemėlapyje pažymėta nauja misija!",
+  "water_plants_message": "Sveiki! Man reikia palaistyti augalus, ar galėtumėte tai padaryti?",
+  "rake_leafs_message": "Sveiki! Man reikia sugrėbti šias lapų krūvas. Ar galėtumėte tai padaryti?",
+  "tree_plant_message": "Sveiki! Man reikia pasodinti keletą medžių sodinukų. Ar galėtumėte tai padaryti?",
+  "new_mission_message": "Jūsų GPS pažymėtas naujas darbas!",
 
-  "end_mission_message": "Ką daryti dabar ? Jei norite, pasirinkite kito tipo misiją ir gaukite ją dar kartą",
+  "end_mission_message": "Pasirinkite ar pradėti kitą darbą ar užbaigti",
 
   "clean_weeds_around": "Išvalykite piktžoles aplink namus.",
-  "water_plants_around": "Vandens augalai aplink mano namus.",
-  "rake_piles_of_leafs": "Grėbkite lapų krūvas aplink namą.",
+  "water_plants_around": "Palaistykite augalus aplink namus.",
+  "rake_piles_of_leafs": "Sugrėbkite lapų krūvas aplink namą.",
   "lawn_land": "Vejos žemė",
 
-  "getting_money": "Gauti pinigų",
-  "cleaning_weeds": "Valyti piktžoles",
-  "watering_plants": "Laistyti augalus",
-  "raking_leafs": "Grėbti lapus",
-  "planting_tree": "Sodinti sodinuką",
+  "getting_money": "Paimate pinigus",
+  "cleaning_weeds": "Valomos piktžolės",
+  "watering_plants": "Laistomas augalas",
+  "raking_leafs": "Grėbiami lapai",
+  "planting_tree": "Sodinamas sodinukas",
 
   "progress%": "Eiga: %.0f %%",
   "progress": "Progresas: 0",
-  "go_get_money": "Eik, gauk pinigų dabar!",
+  "go_get_money": "Eikite pasiimti darbo užmokesčio.",
 
   
-  "return_hoe": "Grąžink kauptuką!",
+  "return_hoe": "Grąžinkite kauptuką!",
   "return_lawnmower": "Grąžinkite žoliapjovę!",
-  "return_wateringcan": "Grąžinti laistytuvą!",
-  "return_rake": "Grąžink grėblį!",
-  "return_sapling": "Grąžink sodinuką!",
+  "return_wateringcan": "Grąžinkite laistytuvą!",
+  "return_rake": "Grąžinkite grėblį!",
+  "return_sapling": "Grąžinkite sodinuką!",
 
-  "get_money": "Paiimkite darbo užmokestį",
+  "get_money": "Paimkite darbo užmokestį",
 
-  "you_need_to_hold_tool": "Norėdami grąžinti įrankį, taip pat turite jį palaikyti!",
-  "you_need_hoe": "Jums reikia kauptuko, kad tai išvalyti!",
-  "you_need_watering_can": "Jums reikia laistytuvo!",
-  "no_rake": "Tau reikia grėblio!",
-  "you_need_sapling": "Tau reikia sodinuko!",
+  "you_need_to_hold_tool": "Norėdami grąžinti įrankį jūs turite jį turėti rankose!",
+  "you_need_hoe": "Jums reikia kauptuko, kad tai išvalyti",
+  "you_need_watering_can": "Jums reikia laistytuvo",
+  "no_rake": "Jums reikia grėblio",
+  "you_need_sapling": "Jums reikia sodinuko",
 
   "talk_to_npc": "Pasikalbėkite su klientu",
   "customer": "Klientas",
   "rake_leafs": "Lapų grėblys",
-  "return_vehicle": "Eikite padėti į automobilį",
-  "return_vehicle_blip": "Padėti automobilyje",
+  "return_vehicle": "Eikite padėti įrankius į transporto priemonę",
+  "return_vehicle_blip": "Grąžinti transporto priemonę",
   "press_e": "[E] Grąžinti automobilį",
   "you_must_sit_in_vehicle": "Turite sėdėti transporto priemonėje!",
 
   "hoe_weeds": "Išvalykite piktžoles",
-  "water_plants": "Vandens augalai",
-  "rake_piles": "Grėbti krūvas",
-  "plant_sapling": "Augalų sodinukas",
-  "check_tools": "Patikrinkite Įrankius",
+  "water_plants": "Palaistykite augalą",
+  "rake_piles": "Sugrėbkite lapų krūvą",
+  "plant_sapling": "Pasodinkite sodinuką",
+  "check_tools": "Patikrinkite įrankius",
   "gardener_job": "Sodininko darbas",
 
   "tools": "Įrankiai",
 
-  "return_tool": "Gržinti sodininko įrankius",
-  "returning": "Gražinamas įrankis",
+  "return_tool": "Grąžinti sodininko įrankius",
+  "returning": "Grąžinamas įrankis",
 
   "rake": "Grėblys",
-  "getting_rake": "Gaunamas grėblys",
+  "getting_rake": "Paimamas grėblys",
 
   "sapling": "Sodinukas",
-  "getting_sapling": "Gaunamas sodinukas",
+  "getting_sapling": "Paimamas sodinukas",
 
   "lawnmower": "Žoliapjovė",
-  "getting_mower": "Gaunama vejapjovė",
+  "getting_mower": "Paimama vejapjovė",
 
   "hoe": "Kauptukas",
-  "getting_hoe": "Gaunamas kauptukas",
+  "getting_hoe": "Paimamas kauptukas",
 
   "watering_can": "Laistytuvas",
-  "getting_watering_can": "Gaunamas laistytuvas",
+  "getting_watering_can": "Paimamas laistytuvas",
  
   
-  "this_mission_is_occupied": "Visos misijos užimtos, palaukite arba pasirinkite kitą misiją."
+  "this_mission_is_occupied": "Šiuo metu nėra laisvų darbo vietų, palaukite arba pasirinkite kitą darbą."
 }
