@@ -1,12 +1,12 @@
 local Translations = {
-    plate_changed = "Numeris pakeistas!",
-    plate_removed = "Numeris pašalintas!",
-    removing_fake_plate = "Šalinamas klaidingas numeris",
-    putting_fake_plate = "Dedamas klaidingas numeris",
-    you_are_not_near_the_vehicle = "Jūs nesate šalia transporto priemonės!",
+    plate_changed = "Numeris pakeistas",
+    plate_removed = "Numeris pašalintas",
+    removing_fake_plate = "Šalinamas numeris",
+    putting_fake_plate = "Keičiamas numeris",
+    you_are_not_near_the_vehicle = "Jūs nesate šalia transporto priemonės",
     ops_something_went_wrong = "Oi, kažkas nutiko!",
     plate_not_cloned = "Numeris neklonuotas!",
-    fake_plate_broker = "Klaidingas numeris sulaužytas!",
+    fake_plate_broker = "Norimas numeris sugadintas!",
     need_tool_kit = "Jums reikia įrankių rinkinio!"
 }
 
